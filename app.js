@@ -1,4 +1,4 @@
-
+// Custom modules are JavaScript files you create and export values/functions from.
 const greeeting = require('./greetings');
 
 
